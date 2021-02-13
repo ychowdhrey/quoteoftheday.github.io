@@ -1,2 +1,2 @@
 Hello,
-I will edit this later
+The goal is to design an app which send user one quote every day
